@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "0001_Two_Sum",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build_0001_Two_Sum",
+      "program": "${workspaceFolder}/0001_Two_Sum/bin/Debug/net6.0/0001_Two_Sum.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/0001_Two_Sum",
+      "console": "internalConsole",
+      "stopAtEntry": false
+    },
+    {
+      "name": "0011_Container_With_Most_Water",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build_0011_Container_With_Most_Water",
+      "program": "${workspaceFolder}/0011_Container_With_Most_Water/bin/Debug/net6.0/0011_Container_With_Most_Water.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/0011_Container_With_Most_Water",
+      "console": "internalConsole",
+      "stopAtEntry": false
+    },
+    {
+      "name": "0042_Trapping_Rain_Water",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build_0042_Trapping_Rain_Water",
+      "program": "${workspaceFolder}/0042_Trapping_Rain_Water/bin/Debug/net6.0/0042_Trapping_Rain_Water.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/0042_Trapping_Rain_Water",
+      "console": "internalConsole",
+      "stopAtEntry": false
+    }
+  ]
+}
